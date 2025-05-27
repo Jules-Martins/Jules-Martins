@@ -29,7 +29,7 @@
 | Projet | Description | Langage |
 |--------|-------------|---------|
 | Wolf3d | Création d'un jeu en raycasting dans l'esprit du Wolfenstein | C |
-| Shell minimal | Création d’un mini-shell avec parsing de commandes | C |
+| Shell | Création d’un shell avec parsing et interprétation de commandes | C |
 | Libmy | Refonte de certaines fonctions standard C | C |
 
 > *Retrouvez ces projets dans mes repos publics !*
